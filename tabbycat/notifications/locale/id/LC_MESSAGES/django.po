@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-05 13:59-0300\n"
-"PO-Revision-Date: 2020-07-23 19:35\n"
+"PO-Revision-Date: 2020-07-28 09:53\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -83,7 +83,7 @@ msgstr ""
 #: notifications/models.py:36 notifications/models.py:75
 #: notifications/models.py:126
 msgid "timestamp"
-msgstr ""
+msgstr "waktu"
 
 #: notifications/models.py:39
 msgid "sent message"
@@ -139,7 +139,7 @@ msgstr ""
 
 #: notifications/models.py:78
 msgid "tournament"
-msgstr ""
+msgstr "turnamen"
 
 #: notifications/models.py:80
 msgid "round"
