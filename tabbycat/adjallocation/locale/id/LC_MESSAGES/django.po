@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-07-28 10:46\n"
+"PO-Revision-Date: 2020-07-28 23:05\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -118,15 +118,15 @@ msgstr "Sukses melakukan prioritasisasi rancangan panel secara otomatis."
 
 #: adjallocation/consumers.py:264
 msgid "Since this is the first round, the preformed panels aren't annotated with brackets and liveness."
-msgstr ""
+msgstr "Karena ini ronde pertama, rancangan panel tidak dilabeli dengan bracket dan liveness."
 
 #: adjallocation/consumers.py:267
 msgid "The previous round's draw doesn't exist, so preformed panels can't be annotated with brackets and liveness."
-msgstr ""
+msgstr "Draw ronde sebelumnya tidak ada, maka rancangan panel tidak dapat dilabeli dengan bracket dan liveness."
 
 #: adjallocation/consumers.py:270
 msgid "Succesfully created new preformed panels for this round."
-msgstr ""
+msgstr "Sukses membuat rancangan panel baru untuk ronde ini."
 
 #: adjallocation/models.py:18
 msgid "chair"
@@ -227,63 +227,63 @@ msgstr "bracket minimum"
 
 #: adjallocation/models.py:120
 msgid "Estimate of the lowest bracket for which this panel might be"
-msgstr ""
+msgstr "Estimasi bracket terendah panel ini akan berada"
 
 #: adjallocation/models.py:122
 msgid "maximum bracket"
-msgstr ""
+msgstr "bracket maksimum"
 
 #: adjallocation/models.py:123
 msgid "Estimate of the highest bracket for which this panel might be"
-msgstr ""
+msgstr "Estimasi bracket tertinggi panel ini akan berada"
 
 #: adjallocation/models.py:125
 msgid "room rank"
-msgstr ""
+msgstr "peringkat ruangan"
 
 #: adjallocation/models.py:126
 msgid "Sequential number of panel, not used in any algorithms"
-msgstr ""
+msgstr "Angka terurut panel, tidak digunakan dalam algoritma manapun"
 
 #: adjallocation/models.py:128
 msgid "liveness"
-msgstr ""
+msgstr "liveness"
 
 #: adjallocation/models.py:129
 msgid "Number of categories this room is expected to be live for"
-msgstr ""
+msgstr "Jumlah kategori ruangan ini diperkirakan masih live"
 
 #: adjallocation/models.py:132
 msgid "preformed panel"
-msgstr ""
+msgstr "rancangan panel"
 
 #: adjallocation/models.py:133
 msgid "preformed panels"
-msgstr ""
+msgstr "rancangan panel"
 
 #: adjallocation/models.py:167
 msgid "panel"
-msgstr ""
+msgstr "panel"
 
 #: adjallocation/models.py:174
 msgid "preformed panel adjudicator"
-msgstr ""
+msgstr "juri dalam rancangan panel"
 
 #: adjallocation/models.py:175
 msgid "preformed panel adjudicators"
-msgstr ""
+msgstr "juri dalam rancangan panel"
 
 #: adjallocation/preformed/base.py:41
 msgid "There are no preformed panels to use. Have you allocated preformed panels for this round? If not, try just auto-allocating adjudicators instead."
-msgstr ""
+msgstr "Tidak ada rancangan panel untuk digunakan. Apakah anda telah menciptakan rancangan panel untuk ronde ini? Apabila belum, coba melakukan alokasi juri otomatis."
 
 #: adjallocation/templates/preformed_index.html:5 adjallocation/views.py:128
 msgid "Preformed Panels"
-msgstr ""
+msgstr "Rancangan Panel"
 
 #: adjallocation/templates/preformed_index.html:10
 msgid "A preformed panel is a defined group of adjudicators that is specified for a round before its draw has been generated. You can then manually or automatically apply these panels during the normal adjudicator allocation process. This can make allocations faster or allow you to create more considered panels of adjudicators."
-msgstr ""
+msgstr "Rancangan panel adalah sekumpulan juri yang telah dikhususkan untuk sebuah ronde sebelum draw dibuat. Anda dapat secara manual atau otomatis menggunakan kumpulan panel tersebut dalam proses alokasi juri seperti biasa. Ini dapat mempercepat proses alokasi atau menciptakan panel juri dengan pertimbangan tertentu."
 
 #: adjallocation/templates/preformed_index.html:16
 msgid "Note that only adjudicators who have been marked as 'available' for that round will be able to be allocated for that round, so you may need to set their availability in advance."
