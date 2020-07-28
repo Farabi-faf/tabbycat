@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-07-28 23:05\n"
+"PO-Revision-Date: 2020-07-28 23:29\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -520,7 +520,7 @@ msgstr ""
 
 #: templates/nav/admin_nav.html:167
 msgid "Add Feedback"
-msgstr ""
+msgstr "Tambahkan Penilaian"
 
 #: templates/nav/admin_nav.html:170
 msgid "Bulk Update"
@@ -595,7 +595,7 @@ msgstr ""
 
 #: templates/nav/assistant_nav.html:11 templates/nav/public_nav.html:182
 msgid "Enter Feedback"
-msgstr ""
+msgstr "Berikan Penilaian"
 
 #: templates/nav/assistant_nav.html:22
 msgid "Participants List"
