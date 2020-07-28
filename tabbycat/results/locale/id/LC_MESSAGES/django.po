@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-24 17:38-0300\n"
-"PO-Revision-Date: 2020-07-25 08:36\n"
+"PO-Revision-Date: 2020-07-28 09:54\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -128,7 +128,7 @@ msgstr ""
 
 #: results/models.py:37
 msgid "timestamp"
-msgstr ""
+msgstr "waktu"
 
 #: results/models.py:39
 msgid "version"
