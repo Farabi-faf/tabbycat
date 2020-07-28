@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-20 04:47-0300\n"
-"PO-Revision-Date: 2020-07-28 09:53\n"
+"PO-Revision-Date: 2020-07-28 10:21\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -94,11 +94,11 @@ msgstr ""
 
 #: adjfeedback/forms.py:28
 msgid "panellist"
-msgstr ""
+msgstr "panelis"
 
 #: adjfeedback/forms.py:29
 msgid "trainee"
-msgstr ""
+msgstr "trainee"
 
 #. Translators: Please leave this blank, it should be left for the base Django translations.
 #: adjfeedback/forms.py:57
@@ -189,7 +189,7 @@ msgstr ""
 
 #: adjfeedback/models.py:12 adjfeedback/models.py:222
 msgid "adjudicator"
-msgstr ""
+msgstr "juri debat"
 
 #: adjfeedback/models.py:15
 msgid "round"
