@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-07-28 23:05\n"
+"PO-Revision-Date: 2020-07-28 23:15\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -287,12 +287,12 @@ msgstr "Rancangan panel adalah sekumpulan juri yang telah dikhususkan untuk sebu
 
 #: adjallocation/templates/preformed_index.html:16
 msgid "Note that only adjudicators who have been marked as 'available' for that round will be able to be allocated for that round, so you may need to set their availability in advance."
-msgstr ""
+msgstr "Perhatikan bahwa hanya juri yang telah ditandai sebagai 'hadir' untuk sebuah ronde yang dapat dialokasikan terhadap ronde tersebut, sehingga anda mungkin ingin mencentang kehadiran mereka sebelum ronde."
 
 #: adjallocation/templates/preformed_index.html:37
 #, python-format
 msgid "Edit Preformed Panels for %(round)s"
-msgstr ""
+msgstr "Sunting Rancangan Panel untuk %(round)s"
 
 #: adjallocation/utils.py:28
 #, python-format
@@ -340,101 +340,101 @@ msgstr "Sunting Panel"
 
 #: adjallocation/views.py:111
 msgid "Return to Panels Overview"
-msgstr ""
+msgstr "Kembali ke Tinjauan Panel"
 
 #: adjallocation/views.py:172
 msgid "Adjudicator-Team Conflicts"
-msgstr ""
+msgstr "Konflik Juri dengan Tim"
 
 #: adjallocation/views.py:173
 msgid "Save Adjudicator-Team Conflicts"
-msgstr ""
+msgstr "Simpan Konflik Juri dengan Tim"
 
 #: adjallocation/views.py:198
 #, python-format
 msgid "Saved %(count)d adjudicator-team conflict."
 msgid_plural "Saved %(count)d adjudicator-team conflicts."
-msgstr[0] ""
+msgstr[0] "Menyimpan %(count)d konflik juri dengan tim."
 
 #: adjallocation/views.py:204
 #, python-format
 msgid "Deleted %(count)d adjudicator-team conflict."
 msgid_plural "Deleted %(count)d adjudicator-team conflicts."
-msgstr[0] ""
+msgstr[0] "Menghapus %(count)d konflik juri dengan tim."
 
 #: adjallocation/views.py:209
 msgid "No changes were made to adjudicator-team conflicts."
-msgstr ""
+msgstr "Tidak ada suntingan yang dibuat terhadap konflik juri dengan tim."
 
 #: adjallocation/views.py:216
 msgid "Adjudicator-Adjudicator Conflicts"
-msgstr ""
+msgstr "Konflik Juri dengan Juri"
 
 #: adjallocation/views.py:217
 msgid "Save Adjudicator-Adjudicator Conflicts"
-msgstr ""
+msgstr "Menyimpan Konflik Juri dengan Juri"
 
 #: adjallocation/views.py:238
 #, python-format
 msgid "Saved %(count)d adjudicator-adjudicator conflict."
 msgid_plural "Saved %(count)d adjudicator-adjudicator conflicts."
-msgstr[0] ""
+msgstr[0] "Menyimpan %(count)d konflik juri dengan juri."
 
 #: adjallocation/views.py:244
 #, python-format
 msgid "Deleted %(count)d adjudicator-adjudicator conflict."
 msgid_plural "Deleted %(count)d adjudicator-adjudicator conflicts."
-msgstr[0] ""
+msgstr[0] "Menghapus %(count)d konflik juri dengan juri."
 
 #: adjallocation/views.py:249
 msgid "No changes were made to adjudicator-adjudicator conflicts."
-msgstr ""
+msgstr "Tidak ada suntingan yang dibuat terhadap konflik juri dengan juri."
 
 #: adjallocation/views.py:256
 msgid "Adjudicator-Institution Conflicts"
-msgstr ""
+msgstr "Konflik Juri dengan Institusi"
 
 #: adjallocation/views.py:257
 msgid "Save Adjudicator-Institution Conflicts"
-msgstr ""
+msgstr "Menyimpan Konflik Juri dengan Institusi"
 
 #: adjallocation/views.py:277
 #, python-format
 msgid "Saved %(count)d adjudicator-institution conflict."
 msgid_plural "Saved %(count)d adjudicator-institution conflicts."
-msgstr[0] ""
+msgstr[0] "Menyimpan %(count)d konflik juri dengan institusi."
 
 #: adjallocation/views.py:283
 #, python-format
 msgid "Deleted %(count)d adjudicator-institution conflict."
 msgid_plural "Deleted %(count)d adjudicator-institution conflicts."
-msgstr[0] ""
+msgstr[0] "Menghapus %(count)d konflik juri dengan institusi."
 
 #: adjallocation/views.py:288
 msgid "No changes were made to adjudicator-institution conflicts."
-msgstr ""
+msgstr "Tidak ada suntingan yang dibuat terhadap konflik juri dengan institusi."
 
 #: adjallocation/views.py:295
 msgid "Team-Institution Conflicts"
-msgstr ""
+msgstr "Konflik Tim dengan Institusi"
 
 #: adjallocation/views.py:296
 msgid "Save Team-Institution Conflicts"
-msgstr ""
+msgstr "Menyimpan Konflik Tim dengan Institusi"
 
 #: adjallocation/views.py:319
 #, python-format
 msgid "Saved %(count)d team-institution conflict."
 msgid_plural "Saved %(count)d team-institution conflicts."
-msgstr[0] ""
+msgstr[0] "Menyimpan %(count)d konflik tim dengan institusi."
 
 #: adjallocation/views.py:325
 #, python-format
 msgid "Deleted %(count)d team-institution conflict."
 msgid_plural "Deleted %(count)d team-institution conflicts."
-msgstr[0] ""
+msgstr[0] "Menyimpan %(count)d konflik tim dengan institusi."
 
 #: adjallocation/views.py:330
 msgid "No changes were made to team-institution conflicts."
-msgstr ""
+msgstr "Tidak ada suntingan yang dibuat terhadap konflik tim dengan institusi."
 
