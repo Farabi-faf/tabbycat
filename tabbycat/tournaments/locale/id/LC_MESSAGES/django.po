@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-05 13:59-0300\n"
-"PO-Revision-Date: 2020-07-28 23:29\n"
+"PO-Revision-Date: 2020-07-28 23:35\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -324,7 +324,7 @@ msgstr ""
 
 #: tournaments/templates/assistant_tournament_index.html:5
 msgid "Overview"
-msgstr ""
+msgstr "Tinjauan"
 
 #: tournaments/templates/assistant_tournament_index.html:8
 #, python-format
