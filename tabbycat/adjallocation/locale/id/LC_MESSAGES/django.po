@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-07-28 10:21\n"
+"PO-Revision-Date: 2020-07-28 10:46\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -171,47 +171,47 @@ msgstr "tim"
 
 #: adjallocation/models.py:53
 msgid "adjudicator-team conflict"
-msgstr ""
+msgstr "konflik juri dengan tim"
 
 #: adjallocation/models.py:54
 msgid "adjudicator-team conflicts"
-msgstr ""
+msgstr "konflik juri dengan tim"
 
 #: adjallocation/models.py:64
 msgid "adjudicator 1"
-msgstr ""
+msgstr "juri 1"
 
 #: adjallocation/models.py:67
 msgid "adjudicator 2"
-msgstr ""
+msgstr "juri 2"
 
 #: adjallocation/models.py:70
 msgid "adjudicator-adjudicator conflict"
-msgstr ""
+msgstr "konflik juri dengan juri"
 
 #: adjallocation/models.py:71
 msgid "adjudicator-adjudicator conflicts"
-msgstr ""
+msgstr "konflik juri dengan juri"
 
 #: adjallocation/models.py:82 adjallocation/models.py:97
 msgid "institution"
-msgstr ""
+msgstr "institusi"
 
 #: adjallocation/models.py:85
 msgid "adjudicator-institution conflict"
-msgstr ""
+msgstr "konflik juri dengan institusi"
 
 #: adjallocation/models.py:86
 msgid "adjudicator-institution conflicts"
-msgstr ""
+msgstr "konflik juri dengan institusi"
 
 #: adjallocation/models.py:100
 msgid "team-institution conflict"
-msgstr ""
+msgstr "konflik tim dengan institusi"
 
 #: adjallocation/models.py:101
 msgid "team-institution conflicts"
-msgstr ""
+msgstr "konflik tim dengan institusi"
 
 #: adjallocation/models.py:114
 msgid "round"
@@ -219,11 +219,11 @@ msgstr "ronde"
 
 #: adjallocation/models.py:116
 msgid "importance"
-msgstr ""
+msgstr "tingkat kepentingan"
 
 #: adjallocation/models.py:119
 msgid "minimum bracket"
-msgstr ""
+msgstr "bracket minimum"
 
 #: adjallocation/models.py:120
 msgid "Estimate of the lowest bracket for which this panel might be"
@@ -297,46 +297,46 @@ msgstr ""
 #: adjallocation/utils.py:28
 #, python-format
 msgid "Conflict: <strong>%(adjudicator)s</strong> & <strong>%(team)s</strong> (personal)"
-msgstr ""
+msgstr "Konflik: <strong>%(adjudicator)s</strong> & <strong>%(team)s</strong> (personal)"
 
 #: adjallocation/utils.py:34
 #, python-format
 msgid "Conflict: <strong>%(adjudicator)s</strong> & <strong>%(team)s</strong> via institution <strong>%(institution)s</strong>"
-msgstr ""
+msgstr "Konflik: <strong>%(adjudicator)s</strong> & <strong>%(team)s</strong> via institusi <strong>%(institution)s</strong>"
 
 #: adjallocation/utils.py:46
 #, python-format
 msgid "Conflict: <strong>%(adjudicator1)s</strong> & <strong>%(adjudicator2)s</strong> (personal)"
-msgstr ""
+msgstr "Konflik: <strong>%(adjudicator1)s</strong> & <strong>%(adjudicator2)s</strong> (personal)"
 
 #: adjallocation/utils.py:52
 #, python-format
 msgid "Conflict: <strong>%(adjudicator1)s</strong> & <strong>%(adjudicator2)s</strong> via institution <strong>%(institution)s</strong>"
-msgstr ""
+msgstr "Konflik: <strong>%(adjudicator1)s</strong> & <strong>%(adjudicator2)s</strong> via institusi <strong>%(institution)s</strong>"
 
 #: adjallocation/views.py:35
 msgid "Male"
-msgstr ""
+msgstr "Pria"
 
 #: adjallocation/views.py:36
 msgid "Female"
-msgstr ""
+msgstr "Wanita"
 
 #: adjallocation/views.py:37
 msgid "Other"
-msgstr ""
+msgstr "Lainnya"
 
 #: adjallocation/views.py:38
 msgid "Unknown"
-msgstr ""
+msgstr "Tak diketahui"
 
 #: adjallocation/views.py:90
 msgid "Edit Allocation"
-msgstr ""
+msgstr "Sunting Alokasi"
 
 #: adjallocation/views.py:105
 msgid "Edit Panels"
-msgstr ""
+msgstr "Sunting Panel"
 
 #: adjallocation/views.py:111
 msgid "Return to Panels Overview"
