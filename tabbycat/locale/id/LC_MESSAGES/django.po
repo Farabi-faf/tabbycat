@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-07-23 19:35\n"
+"PO-Revision-Date: 2020-07-28 09:53\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -97,7 +97,7 @@ msgstr ""
 
 #: checkins/models.py:92
 msgid "tournament"
-msgstr ""
+msgstr "turnamen"
 
 #: checkins/models.py:95
 msgid "check-in event"
