@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-05 13:59-0300\n"
-"PO-Revision-Date: 2020-07-28 23:35\n"
+"PO-Revision-Date: 2020-07-29 04:34\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -554,7 +554,7 @@ msgstr ""
 
 #: standings/views.py:324
 msgid "Speaker Tab"
-msgstr ""
+msgstr "Tabulasi Individu"
 
 #: standings/views.py:339
 #, python-format
@@ -584,7 +584,7 @@ msgstr ""
 
 #: standings/views.py:503
 msgid "Team Tab"
-msgstr ""
+msgstr "Tabulasi Tim"
 
 #: standings/views.py:522
 #, python-format
