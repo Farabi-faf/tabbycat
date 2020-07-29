@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-20 04:47-0300\n"
-"PO-Revision-Date: 2020-07-29 04:15\n"
+"PO-Revision-Date: 2020-07-29 04:25\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -710,17 +710,17 @@ msgstr "Penilaian Juri"
 #: adjfeedback/templates/overview_breakdowns.html:53
 #, python-format
 msgid "The proportion of an adjudicator's score determined by feedback vs the test is set on a per-round basis. Click this link and edit the 'Feedback weight' field to modify this ratio for %(round)s."
-msgstr ""
+msgstr "Nilai juri ditentukan berdasarkan penilaian tiap ronde dan nilai awal dan proporsinya diatur berbeda tiap ronde. Klik tautan berikut dan ubah 'Bobot penilaian tiap ronde' untuk mengubah proporsi ini untuk %(round)s."
 
 #: adjfeedback/templates/overview_breakdowns.html:57
 msgid "Score Ratio"
-msgstr ""
+msgstr "Rasio skor"
 
 #: adjfeedback/templates/overview_breakdowns.html:72
 #, python-format
 msgid "There is %(c_chairs)s debate per round, so there needs to be %(c_chairs)s chair."
 msgid_plural "There are %(c_chairs)s debates per round, so there need to be %(c_chairs)s chairs."
-msgstr[0] ""
+msgstr[0] "Ada %(c_chairs)s debat per ronde, sehingga membutuhkan %(c_chairs)s ketua panel."
 
 #: adjfeedback/templates/overview_breakdowns.html:78
 #, python-format
