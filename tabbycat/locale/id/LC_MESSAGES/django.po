@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-07-29 04:15\n"
+"PO-Revision-Date: 2020-07-29 04:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -619,166 +619,166 @@ msgstr ""
 
 #: templates/nav/assistant_nav.html:59
 msgid "Display/Print Draw"
-msgstr ""
+msgstr "Tampilkan/Cetak Draw"
 
 #: templates/nav/public_nav.html:6
 msgid "Team Tab"
-msgstr ""
+msgstr "Tabulasi Tim"
 
 #: templates/nav/public_nav.html:22
 msgid "Speaker Tab"
-msgstr ""
+msgstr "Tabulasi Individu"
 
 #: templates/nav/public_nav.html:40
 msgid "Replies Tab"
-msgstr ""
+msgstr "Tabulasi Penyimpul"
 
 #: templates/nav/public_nav.html:45
 msgid "Adjudicator Tab"
-msgstr ""
+msgstr "Tabulasi Juri"
 
 #: templates/nav/public_nav.html:50
 msgid "Motions Tab"
-msgstr ""
+msgstr "Tabulasi Mosi"
 
 #: templates/nav/public_nav.html:59
 msgid "Draws"
-msgstr ""
+msgstr "Draw"
 
 #: templates/nav/public_nav.html:70
 msgid "No Draws Available"
-msgstr ""
+msgstr "Tidak Ada Draw yang Tersedia"
 
 #: templates/nav/public_nav.html:78
 #, python-format
 msgid "Draw for %(round)s"
-msgstr ""
+msgstr "Draw untuk %(round)s"
 
 #: templates/nav/public_nav.html:82
 msgid "Current Draws"
-msgstr ""
+msgstr "Draw saat ini"
 
 #: templates/nav/public_nav.html:102 templates/nav/round_panel.html:57
 msgid "Results"
-msgstr ""
+msgstr "Hasil"
 
 #: templates/nav/public_nav.html:120
 msgid "Break"
-msgstr ""
+msgstr "Break"
 
 #: templates/nav/public_nav.html:172
 msgid "Feedback Progress"
-msgstr ""
+msgstr "Progres Penilaian Juri"
 
 #: templates/nav/public_nav.html:177
 msgid "Enter Ballot"
-msgstr ""
+msgstr "Masukkan Lembar Penilaian"
 
 #: templates/nav/round_panel.html:27
 msgid "Availability"
-msgstr ""
+msgstr "Ketersediaan"
 
 #: templates/nav/round_panel.html:37
 msgid "Draw"
-msgstr ""
+msgstr "Draw"
 
 #: templates/nav/round_panel.html:48
 msgid "Display"
-msgstr ""
+msgstr "Tampilan"
 
 #: templates/nav/top_nav_base.html:29
 #, python-format
 msgid "Administrator area for <strong>%(tournament)s</strong>"
-msgstr ""
+msgstr "Area Administrator untuk <strong>%(tournament)s</strong>"
 
 #: templates/nav/top_nav_base.html:38
 #, python-format
 msgid "Assistant area for <strong>%(tournament)s</strong>"
-msgstr ""
+msgstr "Area Asisten untuk <strong>%(tournament)s</strong>"
 
 #: templates/nav/top_nav_base.html:47
 #, python-format
 msgid "Public area for <strong>%(tournament)s</strong>"
-msgstr ""
+msgstr "Area Publik untuk <strong>%(tournament)s</strong>"
 
 #: templates/nav/top_nav_base.html:105
 msgid "Login"
-msgstr ""
+msgstr "Masuk"
 
 #: templates/registration/logged_out.html:5
 msgid "Goodbye"
-msgstr ""
+msgstr "Selamat tinggal"
 
 #: templates/registration/logged_out.html:12
 #, python-format
 msgid "You have been logged out. <a href=\"%(login_url)s\">Log in again?</a>"
-msgstr ""
+msgstr "Anda telah keluar. <a href=\"%(login_url)s\">Masuk lagi?</a>"
 
 #: templates/registration/login.html:4
 msgctxt "page title"
 msgid "Login"
-msgstr ""
+msgstr "Masuk"
 
 #: templates/registration/login.html:29
 msgctxt "page title"
 msgid "Log in to Tabbycat"
-msgstr ""
+msgstr "Masuk ke Tabbycat"
 
 #: templates/registration/login.html:37
 msgid "Your username and password didn't match."
-msgstr ""
+msgstr "Nama pengguna dan kata sandi tidak cocok."
 
 #: templates/registration/login.html:46
 msgid "Your account doesn't have access to this page. To proceed, please log in with an account that has access."
-msgstr ""
+msgstr "Akun anda tidak memiliki akses ke laman ini. Silahkan masuk dengan akun yang memiliki akses untuk melanjutkan."
 
 #: templates/registration/login.html:49
 msgid "Please log in to see this page."
-msgstr ""
+msgstr "Silakan masuk untuk melihat laman ini."
 
 #: templates/registration/password_change_done.html:4
 #: templates/registration/password_change_done.html:5
 msgctxt "page title"
 msgid "Password changed"
-msgstr ""
+msgstr "Kata sandi diganti"
 
 #: templates/registration/password_change_done.html:11
 msgid "Your password has been changed."
-msgstr ""
+msgstr "Kata sandi anda telah diubah."
 
 #: templates/registration/password_change_done.html:14
 msgid "Go to the home page"
-msgstr ""
+msgstr "Balik ke laman awal"
 
 #: templates/registration/password_change_form.html:4
 #: templates/registration/password_change_form.html:27
 msgctxt "page title"
 msgid "Password Change"
-msgstr ""
+msgstr "Pengubahan Kata Sandi"
 
 #: templates/registration/password_change_form.html:16
 #, python-format
 msgid "API Token: <samp>%(api_token)s</samp>"
-msgstr ""
+msgstr "API Token: <samp>%(api_token)s</samp>"
 
 #: templates/registration/password_change_form.html:19
 msgid "The API token will allow you to authorize external applications to access the site as staff."
-msgstr ""
+msgstr "API Token akan memberikan aplikasi eksternal otorisasi untuk mengakses situs sebagai staf."
 
 #: templates/registration/password_change_form.html:28
 msgid "Please enter your old password, then enter a new one."
-msgstr ""
+msgstr "Masukkan kata sandi lama dan baru anda."
 
 #: templates/registration/password_change_form.html:33
 #: templates/registration/password_reset_confirm.html:25
 msgctxt "button"
 msgid "Change my password"
-msgstr ""
+msgstr "Ubah kata sandi saya"
 
 #: templates/registration/password_change_form.html:34
 #: templates/registration/password_reset_confirm.html:26
 msgid "Cancel and go back to the site home page"
-msgstr ""
+msgstr "Batalkan dan kembali ke laman awal"
 
 #: templates/registration/password_reset_complete.html:4
 #: templates/registration/password_reset_complete.html:5
@@ -788,28 +788,28 @@ msgstr ""
 
 #: templates/registration/password_reset_complete.html:11
 msgid "Your password has been reset."
-msgstr ""
+msgstr "Kata sandi Anda telah di reset."
 
 #: templates/registration/password_reset_complete.html:14
 #: templates/registration/password_reset_done.html:15
 msgid "Go to the login page"
-msgstr ""
+msgstr "Balik ke laman login"
 
 #: templates/registration/password_reset_confirm.html:4
 msgctxt "page title"
 msgid "Password Reset Confirmation"
-msgstr ""
+msgstr "Konfirmasi Reset Kata Sandi"
 
 #: templates/registration/password_reset_confirm.html:16
 #: templates/registration/password_reset_form.html:4
 #: templates/registration/password_reset_form.html:24
 msgctxt "page title"
 msgid "Password Reset"
-msgstr ""
+msgstr "Reset Kata Sandi"
 
 #: templates/registration/password_reset_confirm.html:18
 msgid "Please enter a new password (twice):"
-msgstr ""
+msgstr "Silakan masukkan password baru (dua kali):"
 
 #: templates/registration/password_reset_confirm.html:33
 msgid "The password reset link was invalid, possibly because it has already been used.  Please request a new password reset."
