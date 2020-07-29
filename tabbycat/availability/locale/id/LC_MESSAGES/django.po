@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-07-28 09:53\n"
+"PO-Revision-Date: 2020-07-29 04:55\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -61,7 +61,7 @@ msgstr ""
 #: availability/templates/availability_index.html:45
 #, python-format
 msgid "%(previous_unconfirmed)s debates from %(round)s do not have a completed ballot — this may lead to a draw that fails or is incorrect"
-msgstr ""
+msgstr "%(previous_unconfirmed)s debat dari ronde %(round)s tidak memiliki balot yang lengkap — ini dapat berujung pada draw yang salah"
 
 #: availability/templates/availability_index.html:47
 #: availability/templates/availability_index.html:52
@@ -107,7 +107,7 @@ msgstr ""
 #, python-format
 msgid "One debate from %(prev_round)s <strong>does not have a completed ballot</strong>. This may lead to a draw that fails or is incorrect, depending on your draw rules. <a href=\"%(prev_round_results_url)s\" class=\"alert-link\"> Enter results from %(prev_round)s. </a>"
 msgid_plural "%(previous_unconfirmed)s debates from %(prev_round)s <strong>do not have a completed ballot</strong>. This may lead to a draw that fails or is incorrect, depending on your draw rules. <a href=\"%(prev_round_results_url)s\" class=\"alert-link\"> Enter results from %(prev_round)s. </a>"
-msgstr[0] ""
+msgstr[0] "%(previous_unconfirmed)s debat dari ronde %(prev_round)s <strong>tidak memiliki balot yang lengkap</strong>. Ini dapat berujung pada draw yang salah. <a href=\"%(prev_round_results_url)s\" class=\"alert-link\"> Masukkan hasil dari ronde %(prev_round)s. </a>"
 
 #: availability/templates/availability_index.html:121
 #, python-format
