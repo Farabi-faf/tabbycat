@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-07-29 04:34\n"
+"PO-Revision-Date: 2020-07-29 04:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -813,40 +813,40 @@ msgstr "Silakan masukkan password baru (dua kali):"
 
 #: templates/registration/password_reset_confirm.html:33
 msgid "The password reset link was invalid, possibly because it has already been used.  Please request a new password reset."
-msgstr ""
+msgstr "Tautan reset kata sandi tidak valid, mungkin karena telah digunakan sebelumnya. Silahkan meminta reset kata sandi baru."
 
 #: templates/registration/password_reset_done.html:4
 #: templates/registration/password_reset_done.html:5
 msgctxt "page title"
 msgid "Password reset email sent"
-msgstr ""
+msgstr "Email reset kata sandi dikirim"
 
 #: templates/registration/password_reset_done.html:11
 msgid "We've emailed you instructions for setting your password, if an account exists with the email address you entered. You should receive them shortly."
-msgstr ""
+msgstr "Kita telah mengirimkan email yang berisi instruksi bagaimana mengubah password anda, apabila ada akun dengan alamat email yang anda masukkan. Anda akan menerima email tersebut segera."
 
 #: templates/registration/password_reset_done.html:12
 msgid "If you don't receive an email, please make sure you've entered the address you registered with, and check your spam folder."
-msgstr ""
+msgstr "Apabila anda tidak menerima email, pastikan bahwa alamat yang anda masukkan benar, dan cek folder spam anda."
 
 #: templates/registration/password_reset_email.html:2
 #, python-format
 msgid "Hi, %(user)s!"
-msgstr ""
+msgstr "Hai, %(user)s!"
 
 #: templates/registration/password_reset_email.html:6
 #, python-format
 msgid "Someone asked for a password reset for the email address %(email)s on the Tabbycat site at %(protocol)s://%(domain)s."
-msgstr ""
+msgstr "Seseorang meminta reset kata sandi untuk email %(email)s pada situs Tabbycat %(protocol)s://%(domain)s."
 
 #: templates/registration/password_reset_email.html:10
 msgid "If this was you, follow the link below to reset your password:"
-msgstr ""
+msgstr "Apabila ini anda, silahkan ikuti tautan berikut untuk reset password anda:"
 
 #: templates/registration/password_reset_email.html:13
 #, python-format
 msgid "If this wasn't you, that probably means someone else typed your email address into the password reset form on the Tabbycat site at %(protocol)s://%(domain)s."
-msgstr ""
+msgstr "Apabila ini bukan anda, berarti orang lain memasukkan alamat email anda ke laman reset password di situs Tabbycat %(protocol)s://%(domain)s."
 
 #: templates/registration/password_reset_form.html:27
 msgid "Enter your email address below, and we'll email you a password reset link."
