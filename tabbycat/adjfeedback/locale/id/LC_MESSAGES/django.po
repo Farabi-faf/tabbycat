@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-20 04:47-0300\n"
-"PO-Revision-Date: 2020-07-28 23:45\n"
+"PO-Revision-Date: 2020-07-29 00:51\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -555,77 +555,79 @@ msgstr "Perbarui nilai secara masal"
 #: adjfeedback/templates/feedback_by_source.html:5
 #, python-format
 msgid "Feedback %(source_type)s %(source_name)s"
-msgstr ""
+msgstr "Penilaian dari %(source_type)s %(source_name)s"
 
 #: adjfeedback/templates/feedback_by_source.html:12
 #, python-format
 msgid "%(source_name)s hasn't submitted any feedback yet."
-msgstr ""
+msgstr "%(source_name)s belum memberikan penilaian sama sekali."
 
 #: adjfeedback/templates/feedback_by_source.html:17
 #, python-format
 msgid "%(source_name)s hasn't received any feedback yet."
-msgstr ""
+msgstr "%(source_name)s belum menerima penilaian sama sekali."
 
 #: adjfeedback/templates/feedback_card.html:8
 msgid "This is most likely because the team or adjudicator who submitted this feedback has submitted several times on the same person; or because a team has submitted feedback on multiple panellists (rather than just the orallist)."
-msgstr ""
+msgstr "Ini mungkin karena tim atau juri yang memberikan penilaian melakukan submisi berkali-kali terhadap orang yang sama; atau karena tim memberikan penilaian untuk beberapa panelis dan bukan hanya yang memberikan verbal."
 
 #: adjfeedback/templates/feedback_card.html:9
 msgid "Unconfirmed; will not affect this adjudicator's score."
-msgstr ""
+msgstr "Tidak terkonfirmasi; tidak akan berpengaruh pada nilai juri."
 
 #: adjfeedback/templates/feedback_card.html:14
 msgid "The feedback is counted for the adjudicator, but is not taken into account when calculating scores."
-msgstr ""
+msgstr "Penilaian ini dihitung untuk juri ini, namun tidak digunakan saat mengkalkulasi skor."
 
 #: adjfeedback/templates/feedback_card.html:15
 msgid "Ignored; will not affect this adjudicator's score."
-msgstr ""
+msgstr "Diabaikan; tidak akan berpengaruh pada nilai juri."
 
 #: adjfeedback/templates/feedback_card.html:20
 msgid "This feedback is submitted on an adjudicator but it looks like they have been since been removed from the debate. You should probably go to the Edit Database area and delete this feedback."
-msgstr ""
+msgstr "Penilaian ini diberikan untuk seorang juri namun juri tersebut telah dihapus dari debat. Dianjurkan untuk ke Sunting Database dan menghapus penilaian ini."
 
 #: adjfeedback/templates/feedback_card.html:29
 msgid "The score given in this piece of feedback."
-msgstr ""
+msgstr "Skor yang diberikan dalam penilaian ini."
 
 #: adjfeedback/templates/feedback_card.html:30
 #, python-format
 msgid "%(round)s %(score)s"
-msgstr ""
+msgstr "%(round)s %(score)s"
 
 #: adjfeedback/templates/feedback_card.html:34
 #, python-format
 msgid "\n"
 "        On %(adjudicator)s\n"
 "      "
-msgstr ""
+msgstr "\n"
+"        Untuk %(adjudicator)s\n"
+"      "
 
 #: adjfeedback/templates/feedback_card.html:39
 #, python-format
 msgid "<span class=\"text-secondary small\">Received as %(as)s</span>"
-msgstr ""
+msgstr "<span class=\"text-secondary small\">Diterima sebagai %(as)s</span>"
 
 #: adjfeedback/templates/feedback_card.html:43
 #, python-format
 msgid "Base %(base)s"
-msgstr ""
+msgstr "Nilai awal %(base)s"
 
 #: adjfeedback/templates/feedback_card.html:50
 #, python-format
 msgid "From %(source)s <span class=\"text-secondary small\">(their %(relationship)s)</span>"
-msgstr ""
+msgstr "Dari %(source)s <span class=\"text-secondary small\">(%(relationship)s mereka)</span>"
 
 #: adjfeedback/templates/feedback_card.html:54
 #, python-format
 msgid "From %(source)s <span class=\"text-secondary small\">(%(relationship)s from %(side)s)</span>"
-msgstr ""
+msgstr "Dari %(source)s <span class=\"text-secondary small\">(%(relationship)s sebagai %(side)s)</span>"
 
 #: adjfeedback/templates/feedback_card.html:58
 msgid "From unknown"
-msgstr ""
+msgstr "Asal tidak diketahui"
 
 #: adjfeedback/templates/feedback_card.html:85
 #, python-format
@@ -634,7 +636,7 @@ msgstr ""
 
 #: adjfeedback/templates/feedback_card.html:90
 msgid "Unconfirmed feedback is not counted as having been submitted and does not affect this adjudicator's score."
-msgstr ""
+msgstr "Penilaian yang tidak terkonfirmasi tidak akan dianggap telah diserahkan dan tidak akan mempengaruhi skor juri tersebut."
 
 #: adjfeedback/templates/feedback_card.html:95
 msgid "Un-confirm"
