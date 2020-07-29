@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-20 04:47-0300\n"
-"PO-Revision-Date: 2020-07-29 01:30\n"
+"PO-Revision-Date: 2020-07-29 01:41\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -680,7 +680,7 @@ msgstr "<a href=\"%(option_url)s\" class=\"alert-link\">Konfigurasi Penilaian </
 #: adjfeedback/templates/feedback_overview.html:20
 #, python-format
 msgid "The current <a href=\"%(option_url)s\" class=\"alert-link\">feedback configuration</a> allows and expects all adjudicators (including trainees) to submit feedback on every other member of the panel (including trainees)."
-msgstr ""
+msgstr "<a href=\"%(option_url)s\" class=\"alert-link\">Konfigurasi Penilaian </a> saat ini mengijinkan dan mengharuskan semua juri (termasuk trainee) untuk memberikan penilaian terhadap satu sama lain."
 
 #: adjfeedback/templates/feedback_overview.html:31
 #, python-format
