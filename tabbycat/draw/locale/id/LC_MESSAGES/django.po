@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-07-28 23:05\n"
+"PO-Revision-Date: 2020-07-29 04:55\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -542,7 +542,7 @@ msgstr ""
 #: draw/templates/draw_confirm_regeneration.html:22
 #, python-format
 msgid "Do you really want to regenerate the draw for %(round)s? This will delete <strong>all the debates in the current draw</strong> —  including their ballots and adjudicator allocations — and cannot be undone. You probably don't want to do this if any results have been entered!"
-msgstr ""
+msgstr "Apakah anda benar ingin membuat ulang draw untuk %(round)s? Ini akan menghapus <strong>seluruh debat pada ronde tersebut</strong> —  termasuk balot dan alokasi juri — dan tidak dapat dikembalikan. Anda mungkin tidak ingin melakukan ini apabila sudah ada hasil yang masuk!"
 
 #: draw/templates/draw_confirm_regeneration.html:33
 #, python-format
