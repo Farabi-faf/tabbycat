@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-05 13:59-0300\n"
-"PO-Revision-Date: 2020-07-29 04:34\n"
+"PO-Revision-Date: 2020-07-29 04:55\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -153,7 +153,7 @@ msgstr ""
 
 #: standings/speakers.py:99
 msgid "team points"
-msgstr ""
+msgstr "poin tim"
 
 #: standings/speakers.py:100
 msgid "Team"
