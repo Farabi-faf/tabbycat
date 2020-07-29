@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-20 04:47-0300\n"
-"PO-Revision-Date: 2020-07-29 04:25\n"
+"PO-Revision-Date: 2020-07-29 04:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -726,13 +726,13 @@ msgstr[0] "Ada %(c_chairs)s debat per ronde, sehingga membutuhkan %(c_chairs)s k
 #, python-format
 msgid "There is %(c_debates)s debate per round, but only %(c_chairs)s above the minimum voting score."
 msgid_plural "There are %(c_debates)s debates per round, but only %(c_chairs)s above the minimum voting score."
-msgstr[0] ""
+msgstr[0] "Ada %(c_debates)s debat per ronde, namun hanya %(c_chairs)s yang memiliki skor di atas skor minimum."
 
 #: adjfeedback/templates/overview_breakdowns.html:85
 #, python-format
 msgid "%(c_chairs)s chair"
 msgid_plural "%(c_chairs)s chairs"
-msgstr[0] ""
+msgstr[0] "%(c_chairs)s ketua panel"
 
 #: adjfeedback/templates/overview_breakdowns.html:95
 msgid "All adjudicators with a score high enough to vote, but who aren't allocated as chairs, are allocated as panellists by the auto-allocator."
