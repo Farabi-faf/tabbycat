@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-07-29 04:55\n"
+"PO-Revision-Date: 2020-07-29 05:08\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -584,7 +584,7 @@ msgstr ""
 
 #: draw/templates/draw_display_admin.html:63
 msgid "Your configuration/format requires motions to be specified as part of ballot entry. Make sure they are added before results come in!"
-msgstr ""
+msgstr "Konfigurasi/format anda mewajibkan mosi untuk ditulis dalam balot. Pastikan mosi telah ditambahkan sebelum hasil masuk!"
 
 #: draw/templates/draw_display_admin.html:65
 msgid "Enter motions"
@@ -600,7 +600,7 @@ msgstr ""
 
 #: draw/templates/draw_display_admin.html:90
 msgid "A motion should be added if you want to display it to the auditorium or print in on your ballots (using the links below) or to display it (later) on the public motions page."
-msgstr ""
+msgstr "Mosi harus ditambahkan apabila anda ingin menampilkannya di auditorium atau dicetak pada balot (menggunakan tautan di bawah) atau ditampilkan (nanti) pada laman publik mosi."
 
 #: draw/templates/draw_display_admin.html:92
 msgid "Enter a motion"
