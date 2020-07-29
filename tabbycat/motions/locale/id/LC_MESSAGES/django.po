@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-07-29 04:44\n"
+"PO-Revision-Date: 2020-07-29 04:55\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -76,7 +76,7 @@ msgstr ""
 
 #: motions/models.py:41
 msgid "ballot submission"
-msgstr ""
+msgstr "submisi lembar penjurian"
 
 #: motions/models.py:45
 msgid "debate team motion preference"
@@ -258,79 +258,79 @@ msgstr[0] "%(count)s %(side)s veto"
 
 #: motions/templates/motion_statistics_twoteam.html:113
 msgid "No teams vetoed this motion"
-msgstr ""
+msgstr "Tidak ada tim yang memveto mosi ini"
 
 #: motions/templates/motions_edit.html:4 motions/templates/motions_edit.html:10
 msgid "Edit Motion"
 msgid_plural "Edit Motions"
-msgstr[0] ""
+msgstr[0] "Sunting Mosi"
 
 #: motions/templates/motions_edit.html:18
 msgid "Display Draw"
-msgstr ""
+msgstr "Tampilkan Draw"
 
 #: motions/templates/motions_edit.html:55
 msgid "Save Motion"
 msgid_plural "Save Motions"
-msgstr[0] ""
+msgstr[0] "Simpan Mosi"
 
 #: motions/templates/motions_info.html:8
 msgid "Info Slide"
-msgstr ""
+msgstr "Slide Info"
 
 #: motions/templates/public_motions.html:39
 msgid "There are no motions available for this round."
-msgstr ""
+msgstr "Tidak ada mosi tersedia untuk ronde ini."
 
 #: motions/templates/public_motions.html:45
 msgid "The motions for this round have not been released."
-msgstr ""
+msgstr "Mosi ronde ini belum dirilis."
 
 #: motions/templates/public_motions.html:50
 msgid "The motion for this round has not been released."
-msgstr ""
+msgstr "Mosi ronde ini belum dirilis."
 
 #: motions/templates/show.html:16
 #, python-format
 msgid "Reveal Info Slide for %(round)s"
 msgid_plural "Reveal Info Slides for %(round)s"
-msgstr[0] ""
+msgstr[0] "Tampilkan Slide Info untuk %(round)s"
 
 #: motions/templates/show.html:24
 #, python-format
 msgid "Reveal Motion for %(round)s"
 msgid_plural "Reveal Motions for %(round)s"
-msgstr[0] ""
+msgstr[0] "Tampilkan Mosi untuk %(round)s"
 
 #: motions/templates/show.html:41
 msgid "There are no motions for this round entered into Tabbycat."
-msgstr ""
+msgstr "Tidak ada mosi untuk ronde ini yang dimasukkan ke Tabbycat."
 
 #: motions/views.py:87
 msgid "The motion has been saved."
-msgstr ""
+msgstr "Mosi telah disimpan."
 
 #: motions/views.py:89
 #, python-format
 msgid "%(count)d motion has been saved."
 msgid_plural "%(count)d motions have been saved."
-msgstr[0] ""
+msgstr[0] "%(count)d mosi telah disimpan."
 
 #: motions/views.py:94
 #, python-format
 msgid "%(count)d motion has been deleted."
 msgid_plural "%(count)d motions have been deleted."
-msgstr[0] ""
+msgstr[0] "%(count)d mosi telah dihapus."
 
 #: motions/views.py:118
 msgid "Released the motion(s)."
-msgstr ""
+msgstr "Merilis mosi."
 
 #: motions/views.py:125
 msgid "Unreleased the motion(s)."
-msgstr ""
+msgstr "Membatalkan rilis mosi."
 
 #: motions/views.py:149
 msgid "Round Motions"
-msgstr ""
+msgstr "Mosi Ronde"
 
