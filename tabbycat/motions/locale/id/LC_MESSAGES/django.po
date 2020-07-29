@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-07-28 23:45\n"
+"PO-Revision-Date: 2020-07-29 04:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -211,50 +211,50 @@ msgstr ""
 
 #: motions/templates/motion_statistics_bp_prelim.html:29
 msgid "Opening"
-msgstr ""
+msgstr "Pembuka"
 
 #: motions/templates/motion_statistics_bp_prelim.html:33
 msgid "Closing"
-msgstr ""
+msgstr "Penutup"
 
 #: motions/templates/motion_statistics_bp_prelim.html:37
 msgid "Average Points per half"
-msgstr ""
+msgstr "Rata-rata poin per bagian"
 
 #: motions/templates/motion_statistics_bp_prelim.html:60
 #, python-format
 msgid "average points per position (%(ndebates)s debate)"
 msgid_plural "average points per position (%(ndebates)s debates)"
-msgstr[0] ""
+msgstr[0] "rata-rata poin per posisi (%(ndebates)s debat)"
 
 #: motions/templates/motion_statistics_bp_prelim.html:78
 #, python-format
 msgid "%(count)s result for %(side)s (%(percentage)s%%) were for %(points)s points"
 msgid_plural "%(count)s results for %(side)s (%(percentage)s%%) were for %(points)s points"
-msgstr[0] ""
+msgstr[0] "%(count)s hasil untuk %(side)s (%(percentage)s%%) adalah untuk %(points)s poin"
 
 #: motions/templates/motion_statistics_bp_prelim.html:101
 #, python-format
 msgid "%(side)s results"
-msgstr ""
+msgstr "hasil %(side)s"
 
 #: motions/templates/motion_statistics_twoteam.html:31
 #: motions/templates/motion_statistics_twoteam.html:38
 #, python-format
 msgid "%(count)s %(side)s win"
 msgid_plural "%(count)s %(side)s wins"
-msgstr[0] ""
+msgstr[0] "%(count)s %(side)s menang"
 
 #: motions/templates/motion_statistics_twoteam.html:53
 msgid "No teams debated this motion"
-msgstr ""
+msgstr "Tidak ada tim yang mendebatkan mosi ini"
 
 #: motions/templates/motion_statistics_twoteam.html:91
 #: motions/templates/motion_statistics_twoteam.html:98
 #, python-format
 msgid "%(count)s %(side)s veto"
 msgid_plural "%(count)s %(side)s vetoes"
-msgstr[0] ""
+msgstr[0] "%(count)s %(side)s veto"
 
 #: motions/templates/motion_statistics_twoteam.html:113
 msgid "No teams vetoed this motion"
