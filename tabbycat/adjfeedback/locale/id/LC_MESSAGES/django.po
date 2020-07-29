@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-20 04:47-0300\n"
-"PO-Revision-Date: 2020-07-29 00:51\n"
+"PO-Revision-Date: 2020-07-29 00:56\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -640,32 +640,32 @@ msgstr "Penilaian yang tidak terkonfirmasi tidak akan dianggap telah diserahkan 
 
 #: adjfeedback/templates/feedback_card.html:95
 msgid "Un-confirm"
-msgstr ""
+msgstr "Tidak terkonfirmasi"
 
 #: adjfeedback/templates/feedback_card.html:95
 msgid "Confirm"
-msgstr ""
+msgstr "Konfirmasi"
 
 #: adjfeedback/templates/feedback_card.html:100
 msgid "Ignored feedback is counted as having been submitted, but does not affect this adjudicator's score."
-msgstr ""
+msgstr "Penilaian yang diabaikan dianggap telah diserahkan namun tidak mempengaruhi skor juri."
 
 #: adjfeedback/templates/feedback_card.html:105
 msgid "Un-ignore"
-msgstr ""
+msgstr "Hiraukan"
 
 #: adjfeedback/templates/feedback_card.html:105
 msgid "Ignore"
-msgstr ""
+msgstr "Abaikan"
 
 #: adjfeedback/templates/feedback_cards_list.html:17
 msgid "No feedback has been submitted yet"
-msgstr ""
+msgstr "Belum ada penilaian yang masuk"
 
 #: adjfeedback/templates/feedback_overview.html:4
 #, python-format
 msgid "<span id=\"c_breaking\">%(c_breaking)s</span> marked as breaking"
-msgstr ""
+msgstr "<span id=\"c_breaking\">%(c_breaking)s</span> ditandai sebagai breaking"
 
 #: adjfeedback/templates/feedback_overview.html:10
 #, python-format
