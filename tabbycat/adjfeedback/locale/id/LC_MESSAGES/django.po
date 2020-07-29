@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-20 04:47-0300\n"
-"PO-Revision-Date: 2020-07-29 01:41\n"
+"PO-Revision-Date: 2020-07-29 01:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -686,7 +686,7 @@ msgstr "<a href=\"%(option_url)s\" class=\"alert-link\">Konfigurasi Penilaian </
 #, python-format
 msgid "There is <strong>%(nadjs_outside_range)s adjudicator</strong> with a score <strong>outside the permitted range</strong> of adjudicator scores, which is currently set as %(min_score)s to %(max_score)s. This can cause adjudicator auto-allocation to behave in unexpected ways. If you'd like to use a wider score range, you can configure this in <a href=\"%(feedback_settings_url)s\" class=\"alert-link\"> feedback settings</a>."
 msgid_plural "There are <strong>%(nadjs_outside_range)s adjudicators</strong> with scores <strong>outside the permitted range</strong> of adjudicator scores, which is currently set as %(min_score)s to %(max_score)s. This can cause adjudicator auto-allocation to behave in unexpected ways. If you'd like to use a wider score range, you can configure this in <a href=\"%(feedback_settings_url)s\" class=\"alert-link\"> feedback settings</a>."
-msgstr[0] ""
+msgstr[0] "Ada <strong>%(nadjs_outside_range)s juri</strong> dengan skor <strong>diluar interval yang diijinkan</strong> untuk nilai juri, yang mana diatur mulai dari %(min_score)s hingga %(max_score)s. Ini dapat menyebabkan alokasi otomatis memberikan hasil yang tidak sesuai ekspektasi. Apabila anda ingin menggunakan interval nilai yang lebih luas, anda dapat mengkonfigurasi ini di <a href=\"%(feedback_settings_url)s\" class=\"alert-link\"> pengaturan penilaian juri</a>."
 
 #: adjfeedback/templates/overview_breakdowns.html:13
 #, python-format
