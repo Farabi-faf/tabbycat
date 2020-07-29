@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-07-28 09:53\n"
+"PO-Revision-Date: 2020-07-29 04:55\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -23,27 +23,27 @@ msgstr "Catatan Tindakan"
 
 #: actionlog/models.py:89
 msgid "Discarded ballot set"
-msgstr "Membuang lembar penilaian"
+msgstr "Membuang balot"
 
 #: actionlog/models.py:90
 msgid "Checked in ballot set"
-msgstr "Melakukan check-in lembar penilaian"
+msgstr "Melakukan check-in balot"
 
 #: actionlog/models.py:91
 msgid "Created ballot set"
-msgstr "Membuat lembar penilaian"
+msgstr "Membuat balot"
 
 #: actionlog/models.py:92
 msgid "Edited ballot set"
-msgstr "Menyunting lembar penilaian"
+msgstr "Menyunting balot"
 
 #: actionlog/models.py:93
 msgid "Confirmed ballot set"
-msgstr "Mengkonfirmasi lembar penilaian"
+msgstr "Mengkonfirmasi balot"
 
 #: actionlog/models.py:94
 msgid "Submitted ballot set from the public form"
-msgstr "Memasukkan lembar penilaian melalui form publik"
+msgstr "Memasukkan balot melalui form publik"
 
 #: actionlog/models.py:95
 msgid "Submitted feedback from the public form"
