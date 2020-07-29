@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-05 13:59-0300\n"
-"PO-Revision-Date: 2020-07-28 23:45\n"
+"PO-Revision-Date: 2020-07-29 04:34\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -405,7 +405,7 @@ msgstr ""
 
 #: tournaments/templates/create_tournament.html:70
 msgid "Cancel and go back to the site home page"
-msgstr ""
+msgstr "Batalkan dan kembali ke laman awal"
 
 #: tournaments/templates/donations.html:4
 #: tournaments/templates/donations.html:5
@@ -521,7 +521,7 @@ msgstr ""
 
 #: tournaments/templates/public_tournament_index.html:36
 msgid "Team Tab"
-msgstr ""
+msgstr "Tabulasi Tim"
 
 #: tournaments/templates/public_tournament_index.html:43
 #, python-format
@@ -530,7 +530,7 @@ msgstr ""
 
 #: tournaments/templates/public_tournament_index.html:52
 msgid "Speaker Tab"
-msgstr ""
+msgstr "Tabulasi Individu"
 
 #: tournaments/templates/public_tournament_index.html:60
 #, python-format
@@ -539,15 +539,15 @@ msgstr ""
 
 #: tournaments/templates/public_tournament_index.html:70
 msgid "Replies Tab"
-msgstr ""
+msgstr "Tabulasi Penyimpul"
 
 #: tournaments/templates/public_tournament_index.html:76
 msgid "Adjudicator Tab"
-msgstr ""
+msgstr "Tabulasi Juri"
 
 #: tournaments/templates/public_tournament_index.html:82
 msgid "Motions Tab"
-msgstr ""
+msgstr "Tabulasi Mosi"
 
 #: tournaments/templates/public_tournament_index.html:88
 #: tournaments/templates/public_tournament_index.html:135
@@ -579,7 +579,7 @@ msgstr ""
 
 #: tournaments/templates/public_tournament_index.html:123
 msgid "Results"
-msgstr ""
+msgstr "Hasil"
 
 #: tournaments/templates/public_tournament_index.html:129
 msgid "Motions"
@@ -616,7 +616,7 @@ msgstr ""
 
 #: tournaments/templates/public_tournament_index.html:187
 msgid "Enter Ballot"
-msgstr ""
+msgstr "Masukkan Lembar Penilaian"
 
 #: tournaments/templates/public_tournament_index.html:193
 msgid "Enter Feedback"
