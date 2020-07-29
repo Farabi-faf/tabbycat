@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-20 04:47-0300\n"
-"PO-Revision-Date: 2020-07-29 01:54\n"
+"PO-Revision-Date: 2020-07-29 04:15\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -692,20 +692,20 @@ msgstr[0] "Ada <strong>%(nadjs_outside_range)s juri</strong> dengan skor <strong
 #, python-format
 msgid "%(count)s adjudicator currently has a score equal to or above %(min)s and below %(max)s. That is %(percent)s%% of the adjudicator pool."
 msgid_plural "%(count)s adjudicators currently have a score equal to or above %(min)s and below %(max)s. That is %(percent)s%% of the adjudicator pool."
-msgstr[0] ""
+msgstr[0] "%(count)s juri kini memiliki nilai sama dengan atau lebih dari %(min)s dan kurang dari %(max)s. Jumlah mereka sebesar %(percent)s%% dari total juri yang ada."
 
 #: adjfeedback/templates/overview_breakdowns.html:27
 #, python-format
 msgid "Score Distributions (range is %(min_score)s–%(max_score)s)"
-msgstr ""
+msgstr "Distribusi Skor (interval %(min_score)s–%(max_score)s)"
 
 #: adjfeedback/templates/overview_breakdowns.html:43
 msgid "Base"
-msgstr ""
+msgstr "N. Awal"
 
 #: adjfeedback/templates/overview_breakdowns.html:49
 msgid "Feedback"
-msgstr ""
+msgstr "Penilaian Juri"
 
 #: adjfeedback/templates/overview_breakdowns.html:53
 #, python-format
