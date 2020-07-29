@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-20 04:47-0300\n"
-"PO-Revision-Date: 2020-07-29 00:56\n"
+"PO-Revision-Date: 2020-07-29 01:30\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -670,12 +670,12 @@ msgstr "<span id=\"c_breaking\">%(c_breaking)s</span> ditandai sebagai breaking"
 #: adjfeedback/templates/feedback_overview.html:10
 #, python-format
 msgid "The current <a href=\"%(option_url)s\" class=\"alert-link\">feedback configuration</a> allows and expects only chairs to submit feedback (on their panellists and trainees)."
-msgstr ""
+msgstr "<a href=\"%(option_url)s\" class=\"alert-link\">Konfigurasi Penilaian </a> saat ini mengijinkan dan mengharuskan hanya ketua panel yang memberikan penilaian terhadap panelis dan trainee mereka."
 
 #: adjfeedback/templates/feedback_overview.html:14
 #, python-format
 msgid "The current <a href=\"%(option_url)s\" class=\"alert-link\">feedback configuration</a> allows and expects both chairs and panellists to submit feedback on each other, and also chairs to submit on trainees."
-msgstr ""
+msgstr "<a href=\"%(option_url)s\" class=\"alert-link\">Konfigurasi Penilaian </a> saat ini mengijinkan dan mengharuskan ketua panel dan panelis untuk memberikan penilaian terhadap satu sama lain, dan ketua panel terhadap trainee."
 
 #: adjfeedback/templates/feedback_overview.html:20
 #, python-format
